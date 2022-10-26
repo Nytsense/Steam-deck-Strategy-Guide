@@ -36,7 +36,7 @@
 
 - [USBC Hub](https://www.amazon.com/dp/B08VCZLLDP/?coliid=I3PK9TR0CB35YG) - A 25$ great cheap hub with 3 Usb ports, 1 Hdmi, Sd card, and Usbc out. 
 
-- [Mini Keyboard](https://www.amazon.com/dp/B094VVL7Q9) - Sample text
+- [Mini Keyboard](https://www.amazon.com/dp/B094VVL7Q9) - A 30$ small keyboard to use on windows or steamos
 
 - [Baseus Power Bank 65W](https://www.amazon.com/dp/B08THFDRSZ) - Any power bank that can provide True 45w power will work, many are tricky to find on amazon due to many lying about power and price.
 
