@@ -81,7 +81,7 @@ Go to quick settings, Users, then change your password to whatever.
 
 Then open console and Type and or paste
 
-git clone https://github.com/Nytsense/Steam-Deck/tree/main/Windows/steamdeck_dualboot/
+git clone https://github.com/Nytsense/Steam-deck-Guide/tree/main/Windows/steamdeck_dualboot
 
 After Type and or paste (case sensitive)
 
