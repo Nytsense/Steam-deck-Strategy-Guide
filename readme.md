@@ -1,7 +1,7 @@
 <h1 align="center">Nytsense</h1>
 <p align="center">Popular modular software service "Stuxnet"</p>
 
-# [Nyt's] Steam deck installation guide [![Awesome](https://awesome.re/badge.svg)] 
+# [Nyt's] Steam deck information guide [![Awesome](https://awesome.re/badge.svg)] 
 > A curated list of software and hardware for Valve's Steam Deck.
 >
 >
