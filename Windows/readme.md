@@ -33,6 +33,7 @@ Select The SD or usb as the Device
 Select your Windows ISO
 
 Then let it load
+(alternatively you could press windows to go under image option to load off SD alone)
 
 While doing that Prep the deck in desktop mode. 
 
